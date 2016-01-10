@@ -8,4 +8,4 @@ sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt-get -y dist-upgrade
 
-sudo apt-get install -y pantheon-desktop
+sudo apt-get install -y elementary-desktop
